@@ -61,6 +61,26 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				forest: {
+					DEFAULT: '#2D5016',
+					light: '#4D8033',
+					dark: '#1A3009',
+				},
+				honey: {
+					DEFAULT: '#D4A574',
+					light: '#E6C49A',
+					dark: '#B8904E',
+				},
+				earth: {
+					DEFAULT: '#A0522D',
+					light: '#C66F47',
+					dark: '#7A3E22',
+				},
+				nature: {
+					DEFAULT: '#4D8033',
+					light: '#6B9B50',
+					dark: '#336B1F',
 				}
 			},
 			borderRadius: {
